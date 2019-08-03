@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_app (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter/engine`)
+  - flutter_app (from `/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter/FlutterPluginRegistrant`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter/engine"
+  flutter_app:
+    :path: "/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "/Users/ishkawa/Desktop/Demo/flutter_app/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_app: ce041ef81871a088d188168d965554c44bcb2546
+  FlutterPluginRegistrant: 8855ca2b426d228cb41aa6c26c0c83b8c49e3593
+
+PODFILE CHECKSUM: 4e6fa048436b21d4e4b88128804803e245a59215
+
+COCOAPODS: 1.7.5
